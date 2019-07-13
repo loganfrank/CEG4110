@@ -1,1 +1,1 @@
-All homework assignments and final projects for CEG4110: Introduction to Software Engineering at Wright State University
+All homework assignments and final projects for CEG4110: Introduction to Software Engineering at Wright State University. All assignments and the project were done using C# in Xamarin.Forms and the project involved using Python and Flask on the server side.
