@@ -1,0 +1,31 @@
+Function=xamarin_timezone_get_data
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_start_wwan
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/loganfrank/Desktop/softwareEngineering/SeeFood/Project.iOS/obj/iPhone/Debug/device-builds/iphone10.1-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
