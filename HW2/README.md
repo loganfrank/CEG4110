@@ -12,7 +12,7 @@ This application was designed using Model View Controller and Command design pat
 ### Application Screenshots
 | Application On Start Up (Displays Current Time and Date) | Application After User Changes Time or Date | 
 | :---: | :---: |
-| <img src="https://github.com/loganfrank/software-engineering/tree/master/HW2/screenshots/normalTime.PNG" alt="" width="250"/> | <img src="https://github.com/loganfrank/software-engineering/tree/master/HW2/screenshots/futureTime.PNG" alt="" width="250"/> |
+| <img src="https://github.com/loganfrank/software-engineering/blob/master/HW2/screenshots/normalTime.PNG" alt="" width="250"/> | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW2/screenshots/futureTime.PNG" alt="" width="250"/> |
 
 ### Implementation and Design Choices:
 * Users may only increment or decrement months/days/years/hours/minutes/seconds individually and only 1 unit at a time - this made user input handling and command generation very simple
