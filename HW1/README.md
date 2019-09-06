@@ -4,7 +4,7 @@ This iOS application features 2 pages. The first page features a text field and 
 
 | Random Color Page | Drawing Page |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageOne.jpg" alt="First page of application" width="250"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageTwo.jpg" alt="Second page of application" width="250"/>  |
+| <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageOne.jpg" alt="First page of application" width="250"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageTwo.jpg" alt="Second page of application" width="250"/>  |
 
 &nbsp;
 
@@ -13,7 +13,7 @@ On this page, users can enter anything they want into the text field and it will
 
 | First Page | Text Field Input | Button Interaction |
 | --- | --- | --- |
-| <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageOne.jpg" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageOneInput.PNG" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageOneWithAction.jpg" alt="" width="200"/> |
+| <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageOne.jpg" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageOneInput.PNG" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageOneWithAction.jpg" alt="" width="200"/> |
 
 &nbsp;
 
@@ -22,7 +22,7 @@ On this page, users can select a color from the assortment of colors contained i
 
 | Second Page | Color Picker Options | Image In Application | Image In Photos Gallery |
 | --- | --- | --- | --- |
-| <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageTwo.jpg" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageTwoColorPicker.jpg" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/pageTwoFinalImage.jpg" alt="" width="200"/> | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/screenshots/imageInPhotos.jpg" alt = "" width="200"/> |
+| <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageTwo.jpg" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageTwoColorPicker.jpg" alt="" width="200"/>  | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/pageTwoFinalImage.jpg" alt="" width="200"/> | <img src="https://github.com/loganfrank/software-engineering/blob/master/HW1/Screenshots/imageInPhotos.jpg" alt = "" width="200"/> |
 
 &nbsp;
 
